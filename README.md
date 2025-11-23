@@ -1,4 +1,4 @@
-# Mini Clip Experiment 🎥🧠
+# Mini CLIP Experiment 🎥🧠
 *A 365-day journey to build my own small multimodal AI model from scratch.*
 
 ## 🚀 Goal
@@ -43,4 +43,3 @@ mini-clip-kyi
 - Created project structure  
 - Planned the 365-day roadmap  
 - First learning session: Karpathy video “Let's build GPT: from scratch, in code, spelled out" https://www.youtube.com/watch?v=kCc8FmEb1nY
-  

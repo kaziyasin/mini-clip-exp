@@ -1,5 +1,5 @@
 # Mini CLIP Experiment 🎥🧠
-*A 365-day journey to build my own small multimodal AI model from scratch.*
+*A 3-month journey to build my own small multimodal AI model from scratch.*
 
 ## 🚀 Goal
 This project documents my daily/weekly/monthly progress as I learn and build a tiny CLIP-style model that connects **images + text**.  

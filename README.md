@@ -32,10 +32,10 @@ I will also document the entire journey on:
 ## 🧩 Repo Structure (initial skeleton)
 ```
 mini-clip-kyi
-├── data
-├── models
-├── training
-├── utils
+├── data/
+├── models/
+├── training/
+├── utils/
 └── README.md
 ```
 

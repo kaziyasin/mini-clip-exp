@@ -2,7 +2,7 @@
 *A 365-day journey to build my own small multimodal AI model from scratch.*
 
 ## 🚀 Goal
-This project documents my daily progress as I learn and build a tiny CLIP-style model that connects **images + text**.  
+This project documents my daily/weekly/monthly progress as I learn and build a tiny CLIP-style model that connects **images + text**.  
 The goal is not to create a state-of-the-art model, but to deeply understand:
 - Vision transformers  
 - Text encoders  

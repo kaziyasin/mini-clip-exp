@@ -18,7 +18,7 @@ By the end of this journey, I want to reach a level where I am equipped to opera
 - **Daily:** Learn something + code something small.  
 - **Weekly:** Add one feature, dataset, or experiment.  
 - **Monthly:** Produce one measurable result (plot, benchmark, or demo).  
-- **1 Year:** A full working tiny-CLIP experiment with clean code + training notes.
+- **Quarterly:** A full working tiny-CLIP experiment with clean code + training notes.
 
 ## 📚 Why I’m Doing This
 I want to train myself into a **deep AI expert**—the kind who can join teams working on frontier models.  

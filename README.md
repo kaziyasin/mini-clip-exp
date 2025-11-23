@@ -1,4 +1,4 @@
-# Mini-Clip-Exp 🎥🧠
+# Mini Clip Experiment 🎥🧠
 *A 365-day journey to build my own small multimodal AI model from scratch.*
 
 ## 🚀 Goal
@@ -30,12 +30,14 @@ I will also document the entire journey on:
 - **Skool Community** (“365 Days of Building AI with KYI”)
 
 ## 🧩 Repo Structure (initial skeleton)
+```
 mini-clip-kyi
 ├── data
 ├── models
 ├── training
 ├── utils
 └── README.md
+```
 
 ## 📝 Week 1 Progress
 - Created project structure  

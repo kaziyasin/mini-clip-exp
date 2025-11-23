@@ -30,12 +30,12 @@ I will also document the entire journey on:
 - **Skool Community** (“365 Days of Building AI with KYI”)
 
 ## 🧩 Repo Structure (initial skeleton)
-mini-clip-exp/
-├── data/
-├── models/
-├── training/
-├── utils/
-└── README.md/
+mini-clip-kyi
+├── data
+├── models
+├── training
+├── utils
+└── README.md
 
 ## 📝 Week 1 Progress
 - Created project structure  

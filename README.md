@@ -38,8 +38,3 @@ mini-clip-kyi
 ├── utils/
 └── README.md
 ```
-
-## 📝 Week 1 Progress
-- Created project structure  
-- Planned the 365-day roadmap  
-- First learning session: Karpathy video “Let's build GPT: from scratch, in code, spelled out" https://www.youtube.com/watch?v=kCc8FmEb1nY

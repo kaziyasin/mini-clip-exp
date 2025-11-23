@@ -38,3 +38,5 @@ mini-clip-kyi
 ├── utils/
 └── README.md
 ```
+
+📘 **Full Project Journal →** [See the Wiki](https://github.com/kaziyasin/mini-clip-exp/wiki)

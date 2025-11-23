@@ -12,7 +12,7 @@ The goal is not to create a state-of-the-art model, but to deeply understand:
 - Evaluation & benchmarks  
 - Scaling laws and training stability  
 
-By the end of this journey, I want to reach a level where I can work on **frontier research roles** in multimodal AI.
+By the end of this journey, I want to reach a level where I am equipped to operate as a **frontier researcher** in multimodal AI.
 
 ## 📅 The Plan (Short Summary)
 - **Daily:** Learn something + code something small.  
